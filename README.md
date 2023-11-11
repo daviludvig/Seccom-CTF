@@ -1,4 +1,4 @@
-## Hello, hat users.
+# Hello, hat users.
 This repository contains the submission of the Pilotos (Crocantes) team for the Hackathon promoted by [Seccom](https://github.com/seccom-ufsc) in collaboration with [LabSEC](https://github.com/LabSEC) at [UFSC](https://github.com/UFSC).
 
 ## Try to solve it yourself!
@@ -7,7 +7,7 @@ To promote the best possible environment for this CTF, it is recommended to inst
 The only permissible use of the internet would be to learn a new topic, but this challenge was proposed assuming that you, spy, have comprehensive knowledge of everything related to the topics, lol.
 
 
-#### Install on your machine
+### Install on your machine
 - First and foremost, it is strongly recommended to use a Linux environment, especially the use of the Kali distribution.
 
  - `ghidra`, `john`, `kpcli`, `sox`, `python`.
