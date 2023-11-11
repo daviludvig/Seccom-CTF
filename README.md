@@ -19,8 +19,6 @@ A única utilização possível da internet seria para aprender algum tópico no
  <!DOCTYPE html>
 <head>
 <head>
-    <title>
-    </title>
 </head>
 <body>
     <details>
