@@ -15,9 +15,23 @@ A única utilização possível da internet seria para aprender algum tópico no
 
 
 ##### Resolução e outrem
- - Você pode encontrar uma resolução detalhada nesta [apresentação](https://docs.google.com/presentation/d/1zuWZXs_XvSbyWYY96IkettNm7Y4TtYSxQXXQfxBUyZc/edit?usp=sharing), a qual foi utilizada na hora da avaliação do projeto num geral no quinto e último dia de Seccom.
- 
- - Desenolvido por [Davi Ludvig](https://github.com/daviludvig), [Pedro Gimenez](https://github.com/pehqge), [Felipe Murta](https://github.com/plaaxer) e [Rodrigo Schwatz](https://github.com/R0drigoSchwartz) em novembro de 2023.
+ - Você pode encontrar uma resolução detalhada na seguinte apresentação, a qual foi utilizada na hora da avaliação do projeto num geral no quinto e último dia de Seccom.
+ <!DOCTYPE html>
+<head>
+<head>
+    <title>
+    </title>
+</head>
+<body>
+    <details>
+        <summary>- Expandir para apresentação</summary>
+        <a href="https://docs.google.com/presentation/d/1zuWZXs_XvSbyWYY96IkettNm7Y4TtYSxQXXQfxBUyZc/edit?usp=sharing"> Acesse a apresentação </a>
+    </details>
+</body>
+</html>
+&nbsp; 
+
+ - Desenvolvido por [Davi Ludvig](https://github.com/daviludvig), [Pedro Gimenez](https://github.com/pehqge), [Felipe Murta](https://github.com/plaaxer) e [Rodrigo Schwatz](https://github.com/R0drigoSchwartz) em novembro de 2023.
 
  - Agradecemos aos participantes, jurados e organizadores por terem proporcionado esta experiência única que foi participar desta competição.
 
