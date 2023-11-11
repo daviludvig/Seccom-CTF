@@ -14,7 +14,7 @@ A única utilização possível da internet seria para aprender algum tópico no
     - Com estas ferramentas, os integrandes de Pilotos (Crocantes) garantem que você tem tudo disponível para encontrar as cinco flags escondidas dentro do arquivo `CTF.zip` deste repo.
 
 
-##### Resolução e outrem
+#### Resolução e outrem
  - Você pode encontrar uma resolução detalhada na seguinte apresentação, a qual foi utilizada na hora da avaliação do projeto num geral no quinto e último dia de Seccom.
  <!DOCTYPE html>
 <head>
