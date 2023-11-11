@@ -29,7 +29,7 @@ The only permissible use of the internet would be to learn a new topic, but this
 </body>
 </html>
 
- - Developed by [Davi Ludvig](https://github.com/daviludvig), [Pedro Gimenez](https://github.com/pehqge), [Felipe Murta](https://github.com/plaaxer) e [Rodrigo Schwatz](https://github.com/R0drigoSchwartz) in november 2023.
+ - Developed by [Davi Ludvig](https://github.com/daviludvig), [Pedro Gimenez](https://github.com/pehqge), [Felipe Murta](https://github.com/plaaxer) and [Rodrigo Schwatz](https://github.com/R0drigoSchwartz) in november 2023.
 
 - We thank the participants, judges, and organizers for providing this unique experience of participating in this competition.
 
