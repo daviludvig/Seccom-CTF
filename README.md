@@ -14,6 +14,11 @@ The only permissible use of the internet would be to learn a new topic, but this
 
     - With these tools, the members of Pilots (Crispy) ensure that you have everything available to find the five hidden flags within the `CTF.zip` file in this repo.
 
+### How to progress:
+Inside the zip, you are going to find 4 other zips. Three of them have `seccom{` name and the other is named classified. One of those does not have a password, begin there and you can find 2 keys inside it (You're welcome for this hint) 
+- With this, you know that our flag respects the **seccom{...** prefix and ends with the closing **}**. 
+- The password of those seccom zips is the flag that begins with the following letter.
+    - For example, the password for `seccom{B.zip` could be `seccom{BUTter}`, got it?
 
 #### Resolution and others
 - You can find a detailed resolution in the following presentation, which was used during the project evaluation on the fifth and final day of Seccom. But ofc, you are going to try before even looking inside the walkthrough, rigth?
